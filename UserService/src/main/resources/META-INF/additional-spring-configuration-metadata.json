@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "jpa.properties.dialect",
+      "type": "java.lang.String",
+      "description": "Description for jpa.properties.dialect."
+  }
+] }
